@@ -5,3 +5,4 @@
 # Drive to school
 # Walk down the car
 # Walk to 11 floor
+# Arrived at Newton
