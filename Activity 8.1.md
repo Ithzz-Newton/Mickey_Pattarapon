@@ -5,4 +5,6 @@ IF GUESS_NUMBER > 10 THEN
 SEND 'Too high your guess must be between 1 and 10" TO DISPLAY
 ELSE IF GUESS_NUMBER = MYNUMBER THEN
 SEND "Well done you guessed correctly" TO DISPLAY
-ELSE SEND "Bad luck the number is + MYNUMBER
+ELSE SEND "Bad luck the number is" + MYNUMBER
+END IF
+END IF
